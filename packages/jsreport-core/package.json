@@ -36,9 +36,9 @@
     "test:watch": "mocha --watch --recursive test"
   },
   "dependencies": {
-    "@babel/code-frame": "7.12.13",
-    "@babel/parser": "7.14.4",
-    "@babel/traverse": "7.12.9",
+    "@babel/code-frame": "7.18.6",
+    "@babel/parser": "7.19.4",
+    "@babel/traverse": "7.19.4",
     "@colors/colors": "1.5.0",
     "@jsreport/advanced-workers": "1.2.3",
     "@jsreport/mingo": "2.4.1",
