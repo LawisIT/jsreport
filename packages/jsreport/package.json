@@ -40,7 +40,7 @@
     "test": "mocha test --timeout 35000 && standard"
   },
   "dependencies": {
-    "@jsreport/jsreport-assets": "3.4.4",
+    "@jsreport/jsreport-assets": "3.5.0",
     "@jsreport/jsreport-authentication": "3.3.2",
     "@jsreport/jsreport-authorization": "3.2.2",
     "@jsreport/jsreport-base": "3.0.1",
@@ -56,7 +56,7 @@
     "@jsreport/jsreport-freeze": "3.0.1",
     "@jsreport/jsreport-fs-store": "3.2.3",
     "@jsreport/jsreport-handlebars": "3.2.1",
-    "@jsreport/jsreport-html-to-xlsx": "3.2.3",
+    "@jsreport/jsreport-html-to-xlsx": "3.3.0",
     "@jsreport/jsreport-import-export": "3.1.3",
     "@jsreport/jsreport-jsrender": "3.0.0",
     "@jsreport/jsreport-licensing": "3.0.2",
@@ -75,7 +75,7 @@
     "@jsreport/jsreport-tags": "3.1.1",
     "@jsreport/jsreport-text": "3.0.0",
     "@jsreport/jsreport-version-control": "3.1.2",
-    "@jsreport/jsreport-xlsx": "3.2.3",
+    "@jsreport/jsreport-xlsx": "3.3.0",
     "handlebars": "4.7.7",
     "puppeteer": "16.1.0",
     "semver": "6.3.0"
