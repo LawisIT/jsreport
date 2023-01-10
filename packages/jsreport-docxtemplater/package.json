@@ -34,7 +34,7 @@
   "dependencies": {
     "@jsreport/office": "3.0.0",
     "docxtemplater": "3.16.11",
-    "jszip": "2.6.1"
+    "jszip": "3.8.0"
   },
   "devDependencies": {
     "@jsreport/jsreport-assets": "3.4.4",
