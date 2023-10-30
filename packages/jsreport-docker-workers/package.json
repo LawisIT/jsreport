@@ -15,7 +15,7 @@
     "test": "set DEBUG=jsreport&&mocha --recursive test --exit --timeout=50000 && standard"
   },
   "dependencies": {
-    "axios": "0.21.1",
+    "axios": "1.6.0",
     "express": "4.17.1",
     "fs-extra": "9.1.0",
     "ip": "1.1.5",
