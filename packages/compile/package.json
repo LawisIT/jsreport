@@ -32,7 +32,7 @@
     "lockfile": "1.0.4",
     "mkdirp": "0.5.5",
     "object-assign": "4.1.1",
-    "rimraf": "2.6.3",
+    "rimraf": "4.0.0",
     "shortid": "2.2.15",
     "winser-with-api": "1.0.2",
     "yargs": "13.2.4"
