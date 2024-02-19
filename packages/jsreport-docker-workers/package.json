@@ -18,7 +18,7 @@
     "axios": "0.21.1",
     "express": "4.17.1",
     "fs-extra": "9.1.0",
-    "ip": "1.1.5",
+    "ip": "1.1.9",
     "listener-collection": "2.0.0",
     "lodash.get": "4.4.2",
     "lodash.omit": "4.5.0",
