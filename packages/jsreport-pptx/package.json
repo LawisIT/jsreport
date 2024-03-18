@@ -33,7 +33,7 @@
     "test": "mocha test --timeout 8000 && standard"
   },
   "dependencies": {
-    "@jsreport/office": "3.0.0",
+    "@jsreport/office": "4.1.0",
     "@xmldom/xmldom": "0.7.0",
     "image-size": "0.7.4"
   },
