@@ -30,7 +30,7 @@
     "test:watch": "mocha test --watch"
   },
   "dependencies": {
-    "@jsreport/office": "3.0.0",
+    "@jsreport/office": "4.1.0",
     "async-replace-with-limit": "2.0.0",
     "enhanced-resolve": "5.8.2",
     "etag": "1.8.1",
