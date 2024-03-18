@@ -29,7 +29,7 @@
     "test": "mocha test --timeout 10000 && standard"
   },
   "dependencies": {
-    "@jsreport/office": "3.0.0",
+    "@jsreport/office": "4.1.0",
     "@xmldom/xmldom": "0.7.0",
     "js-excel-date-convert": "1.0.2",
     "lodash": "4.17.21",
