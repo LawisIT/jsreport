@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "axios": "0.21.1",
-    "express": "4.17.1",
+    "express": "4.19.2",
     "fs-extra": "9.1.0",
     "ip": "1.1.5",
     "listener-collection": "2.0.0",
