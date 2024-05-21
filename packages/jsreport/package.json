@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "@jsreport/jsreport-assets": "3.4.4",
-    "@jsreport/jsreport-authentication": "3.3.2",
+    "@jsreport/jsreport-authentication": "4.2.0",
     "@jsreport/jsreport-authorization": "3.2.2",
     "@jsreport/jsreport-base": "3.0.1",
     "@jsreport/jsreport-browser-client": "3.1.1",
@@ -62,7 +62,7 @@
     "@jsreport/jsreport-licensing": "3.0.2",
     "@jsreport/jsreport-localization": "3.2.1",
     "@jsreport/jsreport-npm": "3.1.2",
-    "@jsreport/jsreport-pdf-utils": "3.5.0",
+    "@jsreport/jsreport-pdf-utils": "4.2.0",
     "@jsreport/jsreport-pptx": "3.2.1",
     "@jsreport/jsreport-public-templates": "3.0.0",
     "@jsreport/jsreport-reports": "3.0.7",
