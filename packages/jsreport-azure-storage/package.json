@@ -21,7 +21,7 @@
     "test": "mocha --timeout=10000 test&& standard"
   },
   "dependencies": {
-    "@azure/identity": "1.2.4",
+    "@azure/identity": "4.2.1",
     "@azure/storage-blob": "12.5.0",
     "@jsreport/jsreport-core": "3.8.1",
     "mocha": "8.3.2",
