@@ -35,7 +35,7 @@
     "rimraf": "2.6.3",
     "shortid": "2.2.15",
     "winser-with-api": "1.0.2",
-    "yargs": "13.2.4"
+    "yargs": "13.3.0"
   },
   "devDependencies": {
     "@jsreport/jsreport-cli": "3.2.2",
