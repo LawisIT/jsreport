@@ -1,5 +1,5 @@
 # using xenial for now to be able to use phantom -> with newer ubuntu phantom cannot download images over https
-FROM ubuntu:xenial
+FROM ubuntu:xenial-20210114
 EXPOSE 2000
 
 RUN adduser --disabled-password --gecos "" jsreport && \
