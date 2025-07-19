@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "bluebird": "3.7.2",
-    "compression": "1.7.4",
+    "compression": "1.8.1",
     "diff2html": "2.5.0",
     "lodash": "4.17.21",
     "semaphore-async-await": "1.5.1",
