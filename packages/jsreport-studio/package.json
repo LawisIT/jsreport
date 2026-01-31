@@ -44,7 +44,7 @@
   "dependencies": {
     "bluebird": "3.7.2",
     "compression": "1.7.4",
-    "diff2html": "2.5.0",
+    "diff2html": "2.8.0",
     "lodash": "4.17.21",
     "semaphore-async-await": "1.5.1",
     "serve-favicon": "2.5.0",
