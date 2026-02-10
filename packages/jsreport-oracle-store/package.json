@@ -18,7 +18,7 @@
     "test": "mocha test/test.js --timeout=18000 && standard"
   },
   "dependencies": {
-    "@jsreport/sql-store": "3.1.0"
+    "@jsreport/sql-store": "3.2.2"
   },
   "devDependencies": {
     "@jsreport/jsreport-core": "3.8.1",
